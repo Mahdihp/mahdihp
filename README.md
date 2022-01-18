@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mahdi Hosseinpour 👋</h1>
 
-🔭 C# Developer as Well Intresting Golang & C#
+🔭 C# Developer as Well Intresting Golang
 
 At Search Self...
 
