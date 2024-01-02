@@ -4,8 +4,8 @@
 
 [![Telegram Badge](https://img.shields.io/badge/GitHub-github)](https://mahdihp.github.io "My web site")
 [![Linkedin Badge](https://img.shields.io/badge/-mahdihp88-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdihp88/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-mahdihp88-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/mahdihp88 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-mahdihp88-grey?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Mahdihp88 "Contact on Twitter")
+[![Telegram Badge](https://img.shields.io/badge/-mahdihp88-grey?style=flat&logo=Telegram&logoColor=blue)](https://t.me/mahdihp88 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-mahdihp88-grey?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Mahdihp88 "Contact on Twitter")
 
 
 
