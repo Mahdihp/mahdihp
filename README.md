@@ -3,7 +3,7 @@
 🔭 BackEnd Developer as Well Intresting Golang
 
 [![Telegram Badge](https://img.shields.io/badge/GitHub-github)](https://mahdihp.github.io "My web site")
-[![Linkedin Badge](https://img.shields.io/badge/-mahdihp88-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdihp/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-mahdihp-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdihp/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-mahdihp88-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/mahdihp88 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-mahdihp88-black?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Mahdihp88 "Contact on Twitter")
 
